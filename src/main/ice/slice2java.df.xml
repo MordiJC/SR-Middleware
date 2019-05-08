@@ -1,0 +1,31 @@
+<state>
+  <timestamp value='1557350815490' />
+  <sourceSet name='default'>
+    <source name='/home/jacob/dev/IdeaProjects/exchange/src/main/slice/bank.ice'>
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/Currency.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/AccountType.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/Money.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/Period.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/AuthData.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/UserData.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/BankClient.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/LoanRequest.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/LoanResponse.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/FailedAuthenticationException.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/InvalidUuidException.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/InvalidLoanRequestException.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/ClientAlreadyExistsException.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/AccountRegisterer.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/StandardManager.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/PremiumManager.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/AccountRegistererPrx.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/_AccountRegistererPrxI.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/StandardManagerPrx.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/_StandardManagerPrxI.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/PremiumManagerPrx.java' />
+      <file name='/home/jacob/dev/IdeaProjects/exchange/src/main/ice/Bank/_PremiumManagerPrxI.java' />
+    </source>
+    <arg value='/usr/bin/slice2java' />
+    <arg value='-I/usr/share/ice/slice' />
+  </sourceSet>
+</state>
